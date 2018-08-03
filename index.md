@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Redey](https://github.com/Noritoak/Noritoak.github.io/blob/master/redey_poster.png)
+![Redey](https://github.com/Noritoak/Noritoak.github.io/blob/master/redey_poster.png?raw=true)
 
 ## 应有尽有
 汇集各大套图网站美图，填满你对美的遐想和渴望。在Redey，你可以尽情欣赏火辣美图。
