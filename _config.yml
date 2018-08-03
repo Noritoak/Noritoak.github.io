@@ -1,1 +1,5 @@
+title: 这是名字
+description: 这是描述你懂吧，一段比较长的描述在这里显示
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
