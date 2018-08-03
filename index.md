@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Redey](http://ww1.sinaimg.cn/large/005VZZFKgy1ftww5wy1y3j32i018w1kx.jpg)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -98,7 +100,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
 
 
 ### Definition lists can be used with HTML syntax.
